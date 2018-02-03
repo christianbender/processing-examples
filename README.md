@@ -13,6 +13,7 @@ I use Processing 3.3.6
 
 You can contribute to this repository. For instance you can deliever some processing-programs and examples.  
 Please comment your code and create a directory for your examples or programs.  
+**If you use third party assets then please think on the license!**  
 
 ---
 
