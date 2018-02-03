@@ -22,6 +22,8 @@ You can contribute to this repository. For instance you can deliever some proces
 ## Overview  
 
 * projectile  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Its a simple simulation of a flying projectil.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Its a simple simulation of a flying projectil.  
+* ConwaysGameOfLife  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Its a implementation of Conways Game of Life.  
 
 ---
