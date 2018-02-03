@@ -19,6 +19,6 @@ Please commented your code!
 ## Overview  
 
 * projectile  
-  Its a simple simulation of a flying projectil.
+    Its a simple simulation of a flying projectil.
 
 ---
