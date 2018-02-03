@@ -4,10 +4,13 @@ This repository is a collection of my programs written in [processing](https://p
 
 Here you can find the [documentation](https://processing.org/reference/)  
 
+---
+
 ### Platform
 
 I use Processing 3.3.6  
 
+---
 
 ### Contribution
 
