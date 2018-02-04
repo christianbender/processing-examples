@@ -2,7 +2,7 @@
 
 ---
 
-### Buttons by krial  
+### Button by krial  
 
 [source](https://opengameart.org/content/blank-button)  
 [license](https://creativecommons.org/publicdomain/zero/1.0/)    
