@@ -9,7 +9,7 @@
 
 ---
 
-### Ship by Philip  
+### Ship by Philip (prushik)  
 
 [source](https://opengameart.org/content/simple-generic-ship)  
 [license](https://creativecommons.org/publicdomain/zero/1.0/)    
