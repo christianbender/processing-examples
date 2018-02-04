@@ -19,7 +19,7 @@ By each click on a field the computer makes a guess, too.
 
 The game uses the following assets.  
 
-* Ship by Philip (prushik)  
+* Ship by Philip / prushik  
     * [source](https://opengameart.org/content/simple-generic-ship)  
     * [license](https://creativecommons.org/publicdomain/zero/1.0/)  
 
