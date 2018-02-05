@@ -27,5 +27,7 @@ You can contribute to this repository. For instance you can deliever some proces
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Its a implementation of Conways Game of Life.  
 * battleship  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Its a implementation of the battleship-game.  
+* MultipleObjects  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It's a simulation of flying balls inclusive collisions between the balls.
 
 ---
